@@ -1,0 +1,59 @@
+CRITICAL - 2022-04-10 06:23:13 --> Invalid file: T1Nara\uploadingFiles.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara\\uploadin...')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara\\uploadin...', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Jurnal.php(34): view('T1Nara\\uploadin...')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Jurnal->stepFour()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurnal))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+ERROR - 2022-04-10 17:26:14 --> No database selected
+CRITICAL - 2022-04-10 22:12:40 --> Unclosed '{' on line 6
+#0 C:\wamp64\www\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Jurnal/header')
+#1 C:\wamp64\www\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Jurnal/header')
+#2 C:\wamp64\www\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#6 {main}
+CRITICAL - 2022-04-10 22:12:49 --> Unclosed '{' on line 6
+#0 C:\wamp64\www\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('jurnal/cobaarfa...')
+#1 C:\wamp64\www\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('jurnal/cobaarfa...')
+#2 C:\wamp64\www\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#6 {main}
+CRITICAL - 2022-04-10 22:13:20 --> Unclosed '{' on line 6
+#0 C:\wamp64\www\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('jurnal/cobaarfa...')
+#1 C:\wamp64\www\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('jurnal/cobaarfa...')
+#2 C:\wamp64\www\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#6 {main}
+CRITICAL - 2022-04-10 22:13:22 --> Unclosed '{' on line 6
+#0 C:\wamp64\www\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('jurnal/cobaarfa...')
+#1 C:\wamp64\www\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('jurnal/cobaarfa...')
+#2 C:\wamp64\www\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#6 {main}
+CRITICAL - 2022-04-10 22:13:42 --> Unclosed '{' on line 6
+#0 C:\wamp64\www\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('jurnal/cobaarfa...')
+#1 C:\wamp64\www\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('jurnal/cobaarfa...')
+#2 C:\wamp64\www\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#6 {main}
+CRITICAL - 2022-04-10 22:13:43 --> Unclosed '{' on line 6
+#0 C:\wamp64\www\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('jurnal/cobaarfa...')
+#1 C:\wamp64\www\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('jurnal/cobaarfa...')
+#2 C:\wamp64\www\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#6 {main}

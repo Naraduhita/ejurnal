@@ -1,0 +1,225 @@
+body {
+  width: 100%;
+  margin: 0;
+}
+.header {
+  background-color: rgb(94, 156, 118);
+  padding-left: 7%;
+  padding-right: 15%;
+}
+
+#text-header {
+  margin: 0;
+  padding: 0.5em 0 0.25em 4%;
+  font-size: 2em;
+  font-weight: 800;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+hr {
+  border: none;
+  border-top: 1px dashed rgb(12, 8, 8);
+  color: #fff;
+  background-color: #fff;
+  height: 0;
+  width: 100%;
+  margin: 0;
+}
+
+.content {
+  padding-left: 10%;
+  padding-right: 16%;
+  padding-bottom: 12%;
+  background-color: rgb(248, 243, 229);
+}
+
+#submission {
+  padding-bottom: 10%;
+}
+
+#tampilan-awal {
+  padding-bottom: 53%;
+}
+
+.link-menu a {
+  /* color: rgb(61, 133, 88); */
+  margin-right: 25px;
+  text-transform: uppercase;
+  font-family: "Calibri";
+  font-size: 13px;
+}
+
+.link-menu a:hover {
+  color: rgb(92, 175, 124);
+}
+
+.link-menu {
+  height: 28px;
+  padding-top: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* .link-status a{
+    color: rgb(61, 133, 88);
+} */
+
+.link-status a:hover {
+  color: rgb(92, 175, 124);
+}
+
+.link-status {
+  padding: 10px 0 10px 0;
+  margin: 0;
+}
+
+.title {
+  margin: 0;
+  padding: 5px 0 10px 0;
+  font-size: 30px;
+  width: 500px;
+}
+
+.title p {
+  margin: 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.link-step div {
+  display: inline-block;
+  margin: 5px 10px 5px 0;
+}
+
+.green {
+  color: rgb(61, 133, 88);
+}
+
+.table-content {
+  margin-left: 20px;
+}
+
+.submission-file {
+  color: rgb(19, 19, 179);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
+  font-weight:550;
+  margin: 10px 0 10px 0;
+}
+.btn {
+  margin: 20px 5px 10px 0;
+}
+
+.btn-save {
+  background-color: rgb(11, 109, 55);
+  color: white;
+  font-weight: bold;
+}
+
+.btn-save:hover {
+  background-color: rgb(16, 160, 81);
+}
+
+.btn-cancel {
+  border-style: solid;
+  border-width: 1px 2px;
+  border-color: black;
+  font-weight: 500;
+  margin: 0;
+}
+
+.login {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.table-keterangan td {
+  padding: 10px 10px 0 0;
+}
+#remember {
+  padding: 6px 10px 0 0;
+}
+.active-submission {
+  margin-right: 20px;
+}
+.table-id{
+  width: 60px;
+}
+.table-active {
+  /* padding: 10px 80px 10px 0; */
+  width: 80px;
+}
+.table-sec{
+  width: 60px;
+}
+.table-submit{
+  padding: 10px 30px 10px 0;
+}
+.table-authors{
+  width: 500px;
+}
+.table-title{
+  width: 200px;
+}
+.table-kosong{
+  width : 60px;
+}
+.niani{
+  width: 380px;
+}
+.table-untitled{
+  width: 470px;
+}
+.font-right{
+  text-align: right;
+}
+#one {
+  vertical-align: bottom;
+}
+element.style{
+  padding-right: 370px;
+}
+#underline{
+  text-decoration-line: underline;
+}
+#contact{
+  font-size: 11.2px;
+  font-family: verdana,Arial, Helvetica, sans-serif;
+}
+#jarak-tabel{
+  padding: 5px 5px 5px 25px;
+  font-size: 11.2px;
+  font-family: verdana,Arial, Helvetica, sans-serif;
+}
+.jarak-kecil{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+#jarak-uploading-kecil{
+  padding: 5px 60px 5px 0;
+}
+#jarak-uploading-besar{
+  padding: 5px 350px 5px 0;
+}
+#jarak-uploading-sedang{
+  padding: 5px 180px 5px 0;
+}
+#jarak-uploading-kanan{
+  padding: 5px 0 5px 0;
+}
+#jarak-confirm-sedang{
+  padding: 5px 220px 5px 0;
+}
+#jarak-confirm-kecil{
+  padding: 5px 180px 5px 0;
+}
+.font-active{
+  font-family: verdana, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+#two{
+  vertical-align: top;
+}

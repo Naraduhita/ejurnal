@@ -1,0 +1,116 @@
+CRITICAL - 2022-03-11 21:40:06 --> Invalid file: T1Nara\coba1.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara\\coba1.ph...')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara\\coba1', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\T1Nara.php(9): view('T1Nara\\coba1')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\T1Nara->header()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\T1Nara))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-11 21:40:09 --> Invalid file: T1Nara\coba1.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara\\coba1.ph...')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara\\coba1', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\T1Nara.php(9): view('T1Nara\\coba1')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\T1Nara->header()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\T1Nara))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-11 21:47:07 --> Invalid file: T1Nara\coba1.html
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara\\coba1.ht...')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara\\coba1.ht...', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\T1Nara.php(9): view('T1Nara\\coba1.ht...')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\T1Nara->header()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\T1Nara))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-11 23:09:34 --> Undefined variable $data
+#0 C:\Tekweb\ejurnal\app\Controllers\T1Nara.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\Tekweb\\ejurn...', 9)
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\T1Nara->header()
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\T1Nara))
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#6 {main}
+CRITICAL - 2022-03-11 23:31:19 --> Too few arguments to function App\Controllers\T1Nara::header(), 0 passed in C:\Tekweb\ejurnal\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\T1Nara->header()
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\T1Nara))
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#5 {main}
+CRITICAL - 2022-03-11 23:31:31 --> Too few arguments to function App\Controllers\T1Nara::header(), 0 passed in C:\Tekweb\ejurnal\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\T1Nara->header()
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\T1Nara))
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#5 {main}
+CRITICAL - 2022-03-11 23:32:14 --> syntax error, unexpected string content "T1Nara\coba1);"
+#0 C:\Tekweb\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('T1Nara/header')
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('T1Nara/header')
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#6 {main}
+CRITICAL - 2022-03-11 23:33:50 --> syntax error, unexpected string content "T1Nara\coba1.html);"
+#0 C:\Tekweb\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('T1Nara/header')
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('T1Nara/header')
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#6 {main}
+CRITICAL - 2022-03-11 23:34:09 --> syntax error, unexpected string content "T1Nara\coba1);"
+#0 C:\Tekweb\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('T1Nara/header')
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('T1Nara/header')
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#6 {main}
+CRITICAL - 2022-03-11 23:34:12 --> syntax error, unexpected string content "T1Nara\coba1);"
+#0 C:\Tekweb\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('T1Nara/header')
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('T1Nara/header')
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#6 {main}
+CRITICAL - 2022-03-11 23:35:40 --> syntax error, unexpected string content "T1Nara\coba1);"
+#0 C:\Tekweb\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('T1Nara/header')
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('T1Nara/header')
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#6 {main}
+CRITICAL - 2022-03-11 23:35:59 --> syntax error, unexpected string content "T1Nara\coba1);"
+#0 C:\Tekweb\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('T1Nara/coba1')
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('T1Nara/coba1')
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#6 {main}
+CRITICAL - 2022-03-11 23:37:08 --> syntax error, unexpected string content "T1Nara\coba1);"
+#0 C:\Tekweb\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('T1Nara/coba1')
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('T1Nara/coba1')
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#6 {main}
+CRITICAL - 2022-03-11 23:37:12 --> syntax error, unexpected string content "T1Nara\coba1);"
+#0 C:\Tekweb\ejurnal\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('T1Nara/header')
+#1 C:\Tekweb\ejurnal\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('T1Nara/header')
+#2 C:\Tekweb\ejurnal\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#6 {main}

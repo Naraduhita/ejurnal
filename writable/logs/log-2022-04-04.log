@@ -1,0 +1,30 @@
+CRITICAL - 2022-04-04 01:57:03 --> Invalid file: T1Nara/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-04-04 01:57:17 --> Invalid file: T1Nara/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-04-04 01:57:30 --> Invalid file: T1Nara/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}

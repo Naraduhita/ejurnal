@@ -1,0 +1,34 @@
+<?php namespace App\Database\Seeds;
+  
+class ArticleSeeder extends \CodeIgniter\Database\Seeder
+{
+    public function run()
+    {
+        $data = [
+            // [
+            //     'nama'  => 'Bagus',
+            //     'nama_tengah'  =>  'Purnama',
+            //     'nama_akhir'  =>  '',
+            //     'email'  =>  'baguspurnama@gmail.com',
+            //     'url'  =>  'www.',
+            //     'bidang'  =>  'Computer Science',
+            //     'negara'  =>  'Indonesia',
+            //     'bio'  =>  'test'
+
+            // ],
+            // [
+            //     'nama'  => 'Bagus',
+            //     'nama_tengah'  =>  'Purnama',
+            //     'nama_akhir'  =>  '',
+            //     'email'  =>  'baguspurnama@gmail.com',
+            //     'url'  =>  'www.',
+            //     'bidang'  =>  'Computer Science',
+            //     'negara'  =>  'Indonesia',
+            //     'bio'  =>  'test'
+
+            // ]
+         
+        ];
+        $this->db->table('artcile')->insertBatch($data);
+    }
+} 

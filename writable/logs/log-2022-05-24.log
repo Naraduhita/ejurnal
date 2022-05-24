@@ -1,0 +1,451 @@
+CRITICAL - 2022-05-24 01:00:23 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:00:31 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('jurnal/header')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('Jurnal/header', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:10:00 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:10:14 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:10:18 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:14:56 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:14:57 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:15:04 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:16:43 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:16:45 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:17:05 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('jurnal/login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('Jurnal/login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:18:47 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('jurnal/login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('Jurnal/login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:18:51 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('jurnal/login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('Jurnal/login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:19:37 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('jurnal/login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('Jurnal/login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:20:46 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('jurnal/login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('Jurnal/login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:20:49 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('jurnal/login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('Jurnal/login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:23:04 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:23:15 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:23:52 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:23:53 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:23:53 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:23:53 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:25:45 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:25:47 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:25:52 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:26:19 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('jurnal/header')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('Jurnal/header', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:26:24 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:29:09 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:29:10 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:51:51 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 01:51:52 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:11:39 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('home')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('home', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:11:42 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:11:50 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('startingsubmiss...')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('startingSubmiss...', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:16:32 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:27:49 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:28:02 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:29:23 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:29:30 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:31:59 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:57:19 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:58:49 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 02:58:52 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 03:02:57 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 03:04:45 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 03:05:24 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 03:05:26 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 03:05:27 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 03:05:49 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('/')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('/', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-24 03:08:02 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}

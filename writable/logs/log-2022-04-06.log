@@ -1,0 +1,102 @@
+CRITICAL - 2022-04-06 01:21:40 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-06 01:21:46 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-06 01:22:02 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-06 01:23:13 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-06 01:25:37 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-06 01:25:41 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-06 01:26:52 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-06 02:14:08 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-06 02:16:21 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-04-06 04:24:24 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}
+CRITICAL - 2022-04-06 04:53:43 --> Invalid file: T1Nara/content.php
+#0 C:\wamp64\www\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\wamp64\www\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\wamp64\www\ejurnal\app\Controllers\Jurnal.php(42): view('T1Nara/content')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(825): App\Controllers\Jurnal->onClikSave()
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurnal))
+#5 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#8 {main}

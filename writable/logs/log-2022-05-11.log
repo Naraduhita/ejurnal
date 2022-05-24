@@ -1,0 +1,148 @@
+ERROR - 2022-05-11 07:18:47 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-05-11 07:18:47 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\wamp64\www\ejurnal\system\Database\Database.php(67): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\ejurnal\system\Database\Config.php(105): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#2 C:\wamp64\www\ejurnal\system\Database\Seeder.php(98): CodeIgniter\Database\Config::forge(NULL)
+#3 C:\wamp64\www\ejurnal\system\Commands\Database\Seed.php(69): CodeIgniter\Database\Seeder->__construct(Object(Config\Database))
+#4 C:\wamp64\www\ejurnal\system\CLI\Commands.php(63): CodeIgniter\Commands\Database\Seed->run(Array)
+#5 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(70): CodeIgniter\CLI\Commands->run('db:seed', Array)
+#6 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(56): CodeIgniter\CLI\CommandRunner->index(Array)
+#7 C:\wamp64\www\ejurnal\system\CodeIgniter.php(823): CodeIgniter\CLI\CommandRunner->_remap('index', 'db:seed', 'UserSeeder')
+#8 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\CLI\CommandRunner))
+#9 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\ejurnal\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\ejurnal\spark(63): CodeIgniter\CLI\Console->run()
+#12 {main}
+ERROR - 2022-05-11 07:22:15 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-05-11 07:22:15 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\wamp64\www\ejurnal\system\Database\Database.php(67): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\ejurnal\system\Database\Config.php(105): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#2 C:\wamp64\www\ejurnal\system\Database\Seeder.php(98): CodeIgniter\Database\Config::forge(NULL)
+#3 C:\wamp64\www\ejurnal\system\Commands\Database\Seed.php(69): CodeIgniter\Database\Seeder->__construct(Object(Config\Database))
+#4 C:\wamp64\www\ejurnal\system\CLI\Commands.php(63): CodeIgniter\Commands\Database\Seed->run(Array)
+#5 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(70): CodeIgniter\CLI\Commands->run('db:seed', Array)
+#6 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(56): CodeIgniter\CLI\CommandRunner->index(Array)
+#7 C:\wamp64\www\ejurnal\system\CodeIgniter.php(823): CodeIgniter\CLI\CommandRunner->_remap('index', 'db:seed', 'UserSeeder')
+#8 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\CLI\CommandRunner))
+#9 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\ejurnal\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\ejurnal\spark(63): CodeIgniter\CLI\Console->run()
+#12 {main}
+ERROR - 2022-05-11 07:22:58 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-05-11 07:22:58 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\wamp64\www\ejurnal\system\Database\Database.php(67): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\ejurnal\system\Database\Config.php(105): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#2 C:\wamp64\www\ejurnal\system\Database\Seeder.php(98): CodeIgniter\Database\Config::forge(NULL)
+#3 C:\wamp64\www\ejurnal\system\Commands\Database\Seed.php(69): CodeIgniter\Database\Seeder->__construct(Object(Config\Database))
+#4 C:\wamp64\www\ejurnal\system\CLI\Commands.php(63): CodeIgniter\Commands\Database\Seed->run(Array)
+#5 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(70): CodeIgniter\CLI\Commands->run('db:seed', Array)
+#6 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(56): CodeIgniter\CLI\CommandRunner->index(Array)
+#7 C:\wamp64\www\ejurnal\system\CodeIgniter.php(823): CodeIgniter\CLI\CommandRunner->_remap('index', 'db:seed', 'UserSeeder')
+#8 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\CLI\CommandRunner))
+#9 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\ejurnal\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\ejurnal\spark(63): CodeIgniter\CLI\Console->run()
+#12 {main}
+ERROR - 2022-05-11 07:24:53 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2022-05-11 07:24:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\wamp64\www\ejurnal\system\Database\Database.php(67): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\ejurnal\system\Database\Config.php(105): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#2 C:\wamp64\www\ejurnal\system\Database\Seeder.php(98): CodeIgniter\Database\Config::forge(NULL)
+#3 C:\wamp64\www\ejurnal\system\Commands\Database\Seed.php(69): CodeIgniter\Database\Seeder->__construct(Object(Config\Database))
+#4 C:\wamp64\www\ejurnal\system\CLI\Commands.php(63): CodeIgniter\Commands\Database\Seed->run(Array)
+#5 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(70): CodeIgniter\CLI\Commands->run('db:seed', Array)
+#6 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(56): CodeIgniter\CLI\CommandRunner->index(Array)
+#7 C:\wamp64\www\ejurnal\system\CodeIgniter.php(823): CodeIgniter\CLI\CommandRunner->_remap('index', 'db:seed', 'UserSeeder')
+#8 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\CLI\CommandRunner))
+#9 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\ejurnal\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\ejurnal\spark(63): CodeIgniter\CLI\Console->run()
+#12 {main}
+ERROR - 2022-05-11 07:31:01 --> Error connecting to the database: Unknown database 'ci4'
+CRITICAL - 2022-05-11 07:31:01 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'ci4'
+#0 C:\wamp64\www\ejurnal\system\Database\Database.php(67): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\ejurnal\system\Database\Config.php(105): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#2 C:\wamp64\www\ejurnal\system\Database\Seeder.php(98): CodeIgniter\Database\Config::forge(NULL)
+#3 C:\wamp64\www\ejurnal\system\Commands\Database\Seed.php(69): CodeIgniter\Database\Seeder->__construct(Object(Config\Database))
+#4 C:\wamp64\www\ejurnal\system\CLI\Commands.php(63): CodeIgniter\Commands\Database\Seed->run(Array)
+#5 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(70): CodeIgniter\CLI\Commands->run('db:seed', Array)
+#6 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(56): CodeIgniter\CLI\CommandRunner->index(Array)
+#7 C:\wamp64\www\ejurnal\system\CodeIgniter.php(823): CodeIgniter\CLI\CommandRunner->_remap('index', 'db:seed', 'UserSeeder')
+#8 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\CLI\CommandRunner))
+#9 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\ejurnal\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\ejurnal\spark(63): CodeIgniter\CLI\Console->run()
+#12 {main}
+ERROR - 2022-05-11 07:31:11 --> Error connecting to the database: Unknown database 'ci4'
+CRITICAL - 2022-05-11 07:31:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'ci4'
+#0 C:\wamp64\www\ejurnal\system\Database\Database.php(67): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\ejurnal\system\Database\Config.php(105): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#2 C:\wamp64\www\ejurnal\system\Database\Seeder.php(98): CodeIgniter\Database\Config::forge(NULL)
+#3 C:\wamp64\www\ejurnal\system\Commands\Database\Seed.php(69): CodeIgniter\Database\Seeder->__construct(Object(Config\Database))
+#4 C:\wamp64\www\ejurnal\system\CLI\Commands.php(63): CodeIgniter\Commands\Database\Seed->run(Array)
+#5 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(70): CodeIgniter\CLI\Commands->run('db:seed', Array)
+#6 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(56): CodeIgniter\CLI\CommandRunner->index(Array)
+#7 C:\wamp64\www\ejurnal\system\CodeIgniter.php(823): CodeIgniter\CLI\CommandRunner->_remap('index', 'db:seed', 'UserSeeder')
+#8 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\CLI\CommandRunner))
+#9 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\ejurnal\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\ejurnal\spark(63): CodeIgniter\CLI\Console->run()
+#12 {main}
+ERROR - 2022-05-11 07:32:24 --> Error connecting to the database: Unknown database 'jurnal'
+CRITICAL - 2022-05-11 07:32:24 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'jurnal'
+#0 C:\wamp64\www\ejurnal\system\Database\Database.php(67): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\wamp64\www\ejurnal\system\Database\Config.php(105): CodeIgniter\Database\Database->loadForge(Object(CodeIgniter\Database\MySQLi\Connection))
+#2 C:\wamp64\www\ejurnal\system\Database\Seeder.php(98): CodeIgniter\Database\Config::forge(NULL)
+#3 C:\wamp64\www\ejurnal\system\Commands\Database\Seed.php(69): CodeIgniter\Database\Seeder->__construct(Object(Config\Database))
+#4 C:\wamp64\www\ejurnal\system\CLI\Commands.php(63): CodeIgniter\Commands\Database\Seed->run(Array)
+#5 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(70): CodeIgniter\CLI\Commands->run('db:seed', Array)
+#6 C:\wamp64\www\ejurnal\system\CLI\CommandRunner.php(56): CodeIgniter\CLI\CommandRunner->index(Array)
+#7 C:\wamp64\www\ejurnal\system\CodeIgniter.php(823): CodeIgniter\CLI\CommandRunner->_remap('index', 'db:seed', 'UserSeeder')
+#8 C:\wamp64\www\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(CodeIgniter\CLI\CommandRunner))
+#9 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\ejurnal\system\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\ejurnal\spark(63): CodeIgniter\CLI\Console->run()
+#12 {main}
+CRITICAL - 2022-05-11 19:01:15 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('jurnal/steptwo')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('Jurnal/steptwo', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-11 19:01:18 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-11 19:01:31 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-11 19:02:15 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}

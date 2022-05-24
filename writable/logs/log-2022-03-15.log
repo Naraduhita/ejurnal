@@ -1,0 +1,140 @@
+CRITICAL - 2022-03-15 22:44:07 --> Invalid file: Jurnal\tampilan-awal.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal\\tampilan...')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal\\tampilan...', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Jurnal.php(29): view('Jurnal\\tampilan...')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Jurnal->tampilanAwal()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurnal))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 22:45:56 --> Invalid file: Jurnal\submission.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal\\submissi...')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal\\submissi...', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Jurnal.php(11): view('Jurnal\\submissi...')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Jurnal->submission()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurnal))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 22:47:52 --> Invalid file: Jurnal\submission.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal\\submissi...')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal\\submissi...', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Jurnal.php(11): view('Jurnal\\submissi...')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Jurnal->header()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurnal))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 22:49:35 --> Invalid file: Jurnal\submission.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal\\submissi...')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal\\submissi...', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Jurnal.php(10): view('Jurnal\\submissi...')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Jurnal->header()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurnal))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 22:49:41 --> Invalid file: Jurnal\submission.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal\\submissi...')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal\\submissi...', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Jurnal.php(10): view('Jurnal\\submissi...')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Jurnal->header()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurnal))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 22:50:22 --> Invalid file: Jurnal\submission.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal\\submissi...')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal\\submissi...', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Jurnal.php(10): view('Jurnal\\submissi...')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Jurnal->header()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Jurnal))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 22:50:37 --> Invalid file: Jurnal/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('Jurnal/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 22:50:41 --> Invalid file: Jurnal/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('Jurnal/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 22:51:02 --> Invalid file: Jurnal/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('Jurnal/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 22:51:25 --> Invalid file: Jurnal/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('Jurnal/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 22:51:28 --> Invalid file: Jurnal/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Jurnal/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('Jurnal/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('Jurnal/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 23:54:55 --> Invalid file: T1Nara/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 23:55:21 --> Invalid file: T1Nara/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}
+CRITICAL - 2022-03-15 23:55:27 --> Invalid file: T1Nara/content.php
+#0 C:\Tekweb\ejurnal\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('T1Nara/content....')
+#1 C:\Tekweb\ejurnal\system\Common.php(1089): CodeIgniter\View\View->render('T1Nara/content', Array, true)
+#2 C:\Tekweb\ejurnal\app\Controllers\Home.php(10): view('T1Nara/content')
+#3 C:\Tekweb\ejurnal\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Tekweb\ejurnal\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Tekweb\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Tekweb\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Tekweb\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\Tekweb\\ejurn...')
+#8 {main}

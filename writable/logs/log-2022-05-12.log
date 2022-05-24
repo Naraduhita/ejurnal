@@ -1,0 +1,27 @@
+CRITICAL - 2022-05-12 04:04:46 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-12 04:04:50 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
+CRITICAL - 2022-05-12 04:40:57 --> toolbar filter must have a matching alias defined.
+#0 C:\wamp64\www\ejurnal\system\Filters\Filters.php(493): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('toolbar')
+#1 C:\wamp64\www\ejurnal\system\Filters\Filters.php(244): CodeIgniter\Filters\Filters->processAliasesToClass('after')
+#2 C:\wamp64\www\ejurnal\system\Filters\Filters.php(163): CodeIgniter\Filters\Filters->initialize('login')
+#3 C:\wamp64\www\ejurnal\system\CodeIgniter.php(386): CodeIgniter\Filters\Filters->run('login', 'before')
+#4 C:\wamp64\www\ejurnal\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\ejurnal\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\wamp64\www\ejurnal\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\e...')
+#7 {main}
